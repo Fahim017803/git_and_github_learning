@@ -1,1 +1,1 @@
-This is learning part of merge conflict
+This is from master branch
